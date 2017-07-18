@@ -8,7 +8,7 @@ using namespace std;
 
 int arr[1000];
 
-int maon() {
+int Arrays() {
 
 	int arraySize = 0;
 	cin >> arraySize;

@@ -41,5 +41,8 @@
     <ClCompile Include="HackerRank_Variable_Array.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank_VirtualFunctions.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

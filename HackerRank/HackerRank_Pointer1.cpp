@@ -10,7 +10,7 @@ void update(int *a, int *b) {
 
 using namespace std;
 
-int maon() {
+int pointers() {
 	int a, b;
 	int *pa = &a, *pb = &b;
 
