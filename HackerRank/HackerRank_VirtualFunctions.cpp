@@ -74,7 +74,7 @@ void Student::putdata()
 	cout << sum << " " << cur_id << endl;
 }
 
-int main()
+int VirtualFunctions()
 {
 
 

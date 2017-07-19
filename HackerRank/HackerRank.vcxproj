@@ -148,10 +148,15 @@
   <ItemGroup>
     <ClCompile Include="HackerRank.cpp" />
     <ClCompile Include="HackerRank_Arrays.cpp" />
+    <ClCompile Include="HackerRank_AttributeParser.cpp" />
+    <ClCompile Include="HackerRank_Class.cpp" />
     <ClCompile Include="HackerRank_Pointer1.cpp" />
     <ClCompile Include="HackerRank_Variable_Array.cpp" />
     <ClCompile Include="HackerRank_VirtualFunctions.cpp" />
     <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="strings.cpp" />
+    <ClCompile Include="StringStream.cpp" />
+    <ClCompile Include="Struct.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
