@@ -149,7 +149,9 @@
     <ClCompile Include="HackerRank.cpp" />
     <ClCompile Include="HackerRank_Arrays.cpp" />
     <ClCompile Include="HackerRank_AttributeParser.cpp" />
+    <ClCompile Include="HackerRank_BoxIt.cpp" />
     <ClCompile Include="HackerRank_Class.cpp" />
+    <ClCompile Include="HackerRank_Classes_and_Objects.cpp" />
     <ClCompile Include="HackerRank_Pointer1.cpp" />
     <ClCompile Include="HackerRank_Variable_Array.cpp" />
     <ClCompile Include="HackerRank_VirtualFunctions.cpp" />

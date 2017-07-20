@@ -1,40 +1,9 @@
 ﻿  HackerRank_VirtualFunctions.cpp
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(33): error C2679: '>>' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'std::string' (o bien no existe una conversión aceptable)
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(475): note: puede ser 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(456): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(438): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(420): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(401): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(383): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(364): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(345): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(327): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(309): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(283): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(264): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(229): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(210): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(204): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(198): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(193): note: o       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(1092): note: o       'std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>,std::string&>(std::basic_istream<char,std::char_traits<char>> &&,_Ty)'
-          with
-          [
-              _Ty=std::string &
-          ]
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(1082): note: o       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(1075): note: o       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(1068): note: o       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)'
-  e:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\istream(1061): note: o       'std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)'
-  e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(33): note: al hacer coincidir la lista de argumentos '(std::istream, std::string)'
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(58): error C2131: la expresión no se evaluó como una constante
-  e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(58): note: el error se debió a una lectura de una variable fuera de su duración
-  e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(58): note: consulte el uso de 'n'
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(67): error C3863: el tipo de matriz 'Person *[n]' no es asignable
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(70): error C3863: el tipo de matriz 'Person *[n]' no es asignable
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(72): error C2227: el operando izquierdo de '->getdata' debe señalar al tipo class/struct/union/generic
-  e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(72): note: el tipo es 'Person *[n]'
-e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(77): error C2227: el operando izquierdo de '->putdata' debe señalar al tipo class/struct/union/generic
-  e:\users\spark\documents\gitkraken\hackerrank\hackerrank\hackerrank_virtualfunctions.cpp(77): note: el tipo es 'Person *[n]'
-  HackerRank_Variable_Array.cpp
-  Generando código...
+  LINK : no se encontró C:\Users\Miguel\Documents\GitKraken\HackerRank\Debug\HackerRank.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+HackerRank_Classes_and_Objects.obj : error LNK2005: ya se definió "public: __thiscall Student::Student(void)" (??0Student@@QAE@XZ) en HackerRank_Class.obj
+HackerRank_Classes_and_Objects.obj : error LNK2005: ya se definió "public: __thiscall Student::~Student(void)" (??1Student@@QAE@XZ) en HackerRank_Class.obj
+HackerRank_Classes_and_Objects.obj : error LNK2005: ya se definió _main en HackerRank_BoxIt.obj
+Struct.obj : error LNK2005: ya se definió "public: __thiscall Student::Student(void)" (??0Student@@QAE@XZ) en HackerRank_Class.obj
+Struct.obj : error LNK2005: ya se definió "public: __thiscall Student::~Student(void)" (??1Student@@QAE@XZ) en HackerRank_Class.obj
+Struct.obj : error LNK2005: ya se definió _main en HackerRank_BoxIt.obj
+C:\Users\Miguel\Documents\GitKraken\HackerRank\Debug\HackerRank.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
