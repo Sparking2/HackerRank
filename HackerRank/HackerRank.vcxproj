@@ -154,6 +154,8 @@
     <ClCompile Include="HackerRank_Classes_and_Objects.cpp" />
     <ClCompile Include="HackerRank_Pointer1.cpp" />
     <ClCompile Include="HackerRank_Variable_Array.cpp" />
+    <ClCompile Include="HackerRank_VectorErase.cpp" />
+    <ClCompile Include="HackerRank_VectorSort.cpp" />
     <ClCompile Include="HackerRank_VirtualFunctions.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="strings.cpp" />
