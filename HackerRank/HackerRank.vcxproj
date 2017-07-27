@@ -150,12 +150,17 @@
     <ClCompile Include="HackerRank_Arrays.cpp" />
     <ClCompile Include="HackerRank_AttributeParser.cpp" />
     <ClCompile Include="HackerRank_BoxIt.cpp" />
+    <ClCompile Include="HackerRank_C++Templates.cpp" />
     <ClCompile Include="HackerRank_Class.cpp" />
     <ClCompile Include="HackerRank_Classes_and_Objects.cpp" />
+    <ClCompile Include="HackerRank_Inheritancecpp.cpp" />
     <ClCompile Include="HackerRank_LowerBound-STL.cpp" />
     <ClCompile Include="HackerRank_Maps-STL.cpp" />
+    <ClCompile Include="HackerRank_MultiLevelInheritance.cpp" />
     <ClCompile Include="HackerRank_Pointer1.cpp" />
+    <ClCompile Include="HackerRank_PreprocessorSolution.cpp" />
     <ClCompile Include="HackerRank_PrintPretty.cpp" />
+    <ClCompile Include="HackerRank_RectangleArea.cpp" />
     <ClCompile Include="HackerRank_Sets-STL.cpp" />
     <ClCompile Include="HackerRank_Variable_Array.cpp" />
     <ClCompile Include="HackerRank_VectorErase.cpp" />
