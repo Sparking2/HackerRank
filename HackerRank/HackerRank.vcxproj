@@ -157,6 +157,7 @@
     <ClCompile Include="HackerRank_LowerBound-STL.cpp" />
     <ClCompile Include="HackerRank_Maps-STL.cpp" />
     <ClCompile Include="HackerRank_MultiLevelInheritance.cpp" />
+    <ClCompile Include="HackerRank_OverloadOperator.cpp" />
     <ClCompile Include="HackerRank_Pointer1.cpp" />
     <ClCompile Include="HackerRank_PreprocessorSolution.cpp" />
     <ClCompile Include="HackerRank_PrintPretty.cpp" />

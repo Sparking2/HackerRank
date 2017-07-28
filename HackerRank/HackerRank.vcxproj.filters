@@ -98,5 +98,8 @@
     <ClCompile Include="HackerRank_PreprocessorSolution.cpp">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
+    <ClCompile Include="HackerRank_OverloadOperator.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
