@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="HackerRank.cpp" />
     <ClCompile Include="HackerRank_Arrays.cpp" />
+    <ClCompile Include="HackerRank_AttendingWorkshops.cpp" />
     <ClCompile Include="HackerRank_AttributeParser.cpp" />
     <ClCompile Include="HackerRank_BoxIt.cpp" />
     <ClCompile Include="HackerRank_C++Templates.cpp" />
@@ -167,6 +168,7 @@
     <ClCompile Include="HackerRank_VectorErase.cpp" />
     <ClCompile Include="HackerRank_VectorSort.cpp" />
     <ClCompile Include="HackerRank_VirtualFunctions.cpp" />
+    <ClCompile Include="HackerRank_OperatorOverloading.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="strings.cpp" />
     <ClCompile Include="StringStream.cpp" />
